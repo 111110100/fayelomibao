@@ -717,8 +717,9 @@ h6 { font-size: 16px; }
 	height: auto;
 	clear: both;
 	float: left;
-	background-color: #f9f9f9;
+	/*background-color: #f9f9f9;*/
 	padding: 140px 0px 138px 0px;
+	background-image: url("..//img/slider/bg3.jpg");
 }
 .arlo_tm_services .service_inner{
 	width: 100%;
@@ -825,6 +826,7 @@ h6 { font-size: 16px; }
 	float: left;
 	margin-bottom: 100px;
 	padding-top: 141px;
+	background-image: url("..//img/slider/bg2.jpg");
 }
 .arlo_tm_portfolio .portfolio_inner{
 	width: 100%;
